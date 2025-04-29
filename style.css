@@ -499,6 +499,7 @@ main {
 .contact-right form {
   width: 100%;
   max-width: 800px;
+  font-family: 'Quicksand', sans-serif;
   background-color: #fff;
   padding: 30px;
   border-radius: 0px;
@@ -512,6 +513,7 @@ main {
 .contact-right form textarea {
   width: 100%;
   padding: 12px;
+  font-family: 'Quicksand', sans-serif;
   margin-bottom: 15px;
   border: 1px solid #000;
   border-radius: 0px;
@@ -522,6 +524,7 @@ main {
 
 .contact-right form textarea {
   resize: vertical;
+  font-family: 'Quicksand', sans-serif;
   height: 120px;
 }
 
