@@ -553,6 +553,14 @@ main {
   font-family: 'Quicksand', sans-serif;
 }
 
+.contact-right p{
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  padding: 10px;
+  font-size: smaller;
+}
+
 .social-icons {
   display: flex;
   justify-content: center;
