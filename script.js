@@ -9,11 +9,11 @@ document.addEventListener('DOMContentLoaded', () => {
     document.body.style.overflowY = 'scroll';
   });*/
 
-  document.body.style.overflowY = 'hidden'; // Disable scroll initially
+  /*document.body.style.overflowY = 'hidden'; // Disable scroll initially
 
   setTimeout(() => {
     document.body.style.overflowY = 'scroll'; // Enable after 10 seconds
-  }, 8000); // 10000 ms = 10 seconds
+  }, 8000); // 10000 ms = 10 seconds*/
 
 
   // Split name into span elements
